@@ -25,11 +25,11 @@
             <div class="container">
                 <div class="masthead-subheading titre-menu">Bienvenue dans l'univer de Jojo</div>
                 <div  class="masthead-heading text-uppercase titre-menu">Heureux de vous voir ici</div>
-                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger " href="#services">aimez vos passions</a>
+                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger " href="#portfolio">aimez vos passions</a>
             </div>
         </header>
 
-        <?php include 'services.php';?>
+     
         
    
       
