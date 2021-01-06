@@ -317,7 +317,7 @@ Tusk ACT4 est la plus haute évolution de Tusk, uniquement accessible lorsque Jo
                                     <!-- Project Details Go Here-->
                                     <h2 class="text-uppercase">Soft & wet</h2>
                                     <p class="item-intro text-muted">Manieur: Josuke Higashikata</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/soft_modal" alt="" />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/soft_&_wet.gif" alt="" />
                                     <p><b>Capacités; </b>
 Soft & Wet est un stand humanoïde à courte portée. Il possède une résistance accrue, démontrée d'abord quand il brise une grande partie d'un mur d'appartement avec un seul coup de pied arrière, et est également capable de combats au corps à corps extrêmement rapides. L'ampleur des dégâts qu'elle peut infliger est toutefois limitée, car elle est incapable de briser des roches.
 
