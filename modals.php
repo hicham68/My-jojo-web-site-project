@@ -238,7 +238,7 @@ L'utilisation du fil de Stone Free le rend remarquablement polyvalent en combat.
                                     <!-- Project Details Go Here-->
                                     <h2 class="text-uppercase">Tusk Act 1-4</h2>
                                     <p class="item-intro text-muted">Manieur: Johny Joestar</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/tusk_gif.gif" alt="" />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/tusk.gif" alt="" />
                                     <p><b>Capacités:</b>  Malgré sa forme corporelle, le pouvoir de Tusk fonctionne comme une capacité que Johnny doit personnellement utiliser pour se battre à la manière d'un tireur. Tusk ACT1 est globalement assez faible et n'est pas suffisant pour confronter la plupart des manieurs de Stand. <b>  Ongles rotatifs:</b>Tusk ACT1 confère à Johnny la capacité d’insuffler la Rotation à ses ongles.
 
 Johnny est capable de faire tourner ses ongles de mains (plus tard, de pieds) à grande vitesse, et les tirer comme des balles jusqu'à 10 mètres. Les ongles ont un pouvoir de coupe incroyable, et peuvent trancher la roche, couper nettement des membres, ou même sculpter un arbre en une forme humanoïde en quelques secondes. Toutefois, ils ne possèdent pas le pouvoir de couper à travers le métal. Une fois que Johnny tire un ongle, il ne lui faut que peu de temps pour repousser.
