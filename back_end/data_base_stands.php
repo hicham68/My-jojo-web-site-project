@@ -2,10 +2,7 @@
 <?php
 
 
-
-
 class DataBase {
-
 
   public static function connect_db(){
 
@@ -14,7 +11,7 @@ class DataBase {
     $password = "";
 
     try {
-      $conn = new PDO("mysql:host=$servername;dbname=jojo_world;charset=utf8", $username, $password);
+      $conn = new PDO("mysql:host=$servername;dbname=actu_animes;charset=utf8", $username, $password);
       // set the PDO error mode to exception
       $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
       // stmt recupere tous les stands
@@ -31,7 +28,7 @@ class DataBase {
     try {
       $connexion= DataBase::connect_db();
       // stmt recupere tous les stands
-      $stmt = $connexion->prepare("SELECT * FROM `all_stands` WHERE 1");
+      $stmt = $connexion->prepare("SELECT * FROM `stand` WHERE 1");
       $stmt->execute();
     
        // set the resulting array to associative
@@ -71,7 +68,6 @@ class DataBase {
 
     
     try {
-
 
      echo "SUCCES de l'AJOU DANS  la base de donnée";
     } catch(PDOException $e) {
@@ -352,6 +348,6 @@ $soft_wet= new Stand("portfolioModal7",
             "Jojo Stand"
             );         
 
-            // $allJojoStands = array($hermit_purple, $star_platinium, $crazy_diamond, $gold_experience, $stone_free, $tusk, $soft_wet);
+            $allJojoStands = array($hermit_purple, $star_platinium, $crazy_diamond, $gold_experience, $stone_free, $tusk, $soft_wet);
   
 ?>
